@@ -1,8 +1,8 @@
-[![MasterHead](https://www.canva.com/design/DAFY1dwj9bI/view)](https://dailydevstudio.com)
+[![MasterHead](https://i.ibb.co/h8jZqKY/Black-Minimal-Motivation-Quote-Linked-In-Banner.png)](https://dailydevstudio.com)
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAFgJaRZh0o/view">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/vq7bb1B/Black-White-Minimalist-Facebook-Profile-Picture.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzendofficial&label=Profile%20views&color=0e75b6&style=flat" alt="huzendofficial" /> </p>
