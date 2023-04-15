@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huzaifa</h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="huzaifa header image">
+<img src="https://i.ibb.co/kXb6gz1/20230415-223133-0000.png" align="center" alt="huzaifa header image">
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
