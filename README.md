@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huzaifa</h1>
-
+<br>
 <img src="https://i.ibb.co/Zz8qDSq/20230415-223850-0000.png" align="center" alt="huzaifa header image">
 
 <br>
