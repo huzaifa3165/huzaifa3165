@@ -19,7 +19,7 @@ I am Computer Science student and a Certified Frontend Developer by <b>Meta</b> 
 I am a <b>freelancer</b> as a Full Stack Web Developer and Designer.<br/>
 I am interested in learning <b>ML, AI, Cyber Security</b> and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<img align="right" alt="GIF" src="https://github.com/huzaifa3165/huzaifa3165/blob/main/Black%20White%20Minimalist%20Facebook%20Profile%20Picture%20(2080%20%C3%97%201456%20px).png" width="400" height="280" />
 
 - 🔭 I’m currently working on Frontend & Backend Web Development.
 - 🌱 I’m currently learning Android Development.
